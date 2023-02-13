@@ -135,6 +135,6 @@ while True:
     # refresh screen
     pygame.display.update()
     
-    # set clock speed speed
+    # set clock speed speed speed
 
     clock.tick(20)
